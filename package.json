@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "http-server -o -p 8080 www"
+    "start": "http-server -o -a 127.0.0.1 -p 8080 www"
   },
   "repository": {
     "type": "git",
