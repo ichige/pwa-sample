@@ -3,6 +3,7 @@ var cacheName = 'tempConverterShell';
 var filesToCache = [
   '/',
   '/index.html',
+  '/js/boot.js',
   '/js/main.js',
   '/css/main.css'
 ];
