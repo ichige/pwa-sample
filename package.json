@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "http-server -o -a 127.0.0.1 -p 8080 www",
-    "rss": "http-server -o -a 127.0.0.1 -p 8081 rss"
+    "rss": "http-server -o -a 127.0.0.1 -p 8083 rss"
   },
   "repository": {
     "type": "git",
