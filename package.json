@@ -19,5 +19,6 @@
   "homepage": "https://github.com/ichige/pwa-sample#readme",
   "dependencies": {
     "http-server": "^0.11.1"
-  }
+  },
+  "devDependencies": {}
 }
